@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Black Tape Project for Nal's Realistic Body_zh</name>
+	<supportedVersions>
+		<li>1.0</li>
+		<li>1.1</li>
+		<li>1.2</li>
+		<li>1.3</li>
+		<li>1.4</li>
+		<li>1.5</li>
+	</supportedVersions>
+	<packageId>yimi.chinesepack.btp</packageId>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.royalty</li>
+		<li>Ludeon.RimWorld.ideology</li>
+		<li>Ludeon.RimWorld.biotech</li>
+		<li>Ludeon.RimWorld.anomaly</li>
+		<li>Nals.Realisticbody</li>
+		<li>ranchu178.btp</li>
+	</loadAfter>
+	<author>Yimi</author>
+	<description>Black Tape Project for Nal's Realistic Body的简繁汉化
+Black Tape Project for Nal's Realistic Body : https://steamcommunity.com/sharedfiles/filedetails/?id=3220405671
+我觉得游戏缺乏“未来风格服装”，所以我决定制作一些。
+为Nal的现实身体类型增加了5个未来感的黑色胶带“服装”。
+“衣服”仅限女性使用。
+警告：NSFW，因为“衣服”非常暴露。
+要求：
+[NL] Realistic Body: https://steamcommunity.com/sharedfiles/filedetails/?id=2820615654
+当与以下模组组合使用时，连裤袜看起来最好：
+[NL] Facial Animation - WIP : https://steamcommunity.com/sharedfiles/filedetails/?id=1635901197
+[NL] Facial Animation - Experimentals: https://steamcommunity.com/sharedfiles/filedetails/?id=2581693737
+==========================================================================================================
+建议的装载顺序：
+...
+1.[NL] Realistic Body
+2.[THIS MOD]
+==========================================================================================================
+赞美：
+Nals代表美妙的身体模组
+	</description>
+</ModMetaData>
